@@ -1,22 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.bab0b925.chunk.css",
-    "main.js": "./static/js/main.c88462ff.chunk.js",
-    "main.js.map": "./static/js/main.c88462ff.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.89d4137f.js",
-    "runtime-main.js.map": "./static/js/runtime-main.89d4137f.js.map",
-    "static/js/2.460aadec.chunk.js": "./static/js/2.460aadec.chunk.js",
-    "static/js/2.460aadec.chunk.js.map": "./static/js/2.460aadec.chunk.js.map",
-    "static/js/3.9cc0cc59.chunk.js": "./static/js/3.9cc0cc59.chunk.js",
-    "static/js/3.9cc0cc59.chunk.js.map": "./static/js/3.9cc0cc59.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.bab0b925.chunk.css.map": "./static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.460aadec.chunk.js.LICENSE.txt": "./static/js/2.460aadec.chunk.js.LICENSE.txt"
+    "main.css": "/soreaasmai.com/static/css/main.31d6cfe0.css",
+    "main.js": "/soreaasmai.com/static/js/main.5900e6f2.js",
+    "static/js/453.c0bb404c.chunk.js": "/soreaasmai.com/static/js/453.c0bb404c.chunk.js",
+    "index.html": "/soreaasmai.com/index.html",
+    "main.5900e6f2.js.map": "/soreaasmai.com/static/js/main.5900e6f2.js.map",
+    "453.c0bb404c.chunk.js.map": "/soreaasmai.com/static/js/453.c0bb404c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.89d4137f.js",
-    "static/js/2.460aadec.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.c88462ff.chunk.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.5900e6f2.js"
   ]
 }
