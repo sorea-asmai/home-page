@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"Sorea Asmai",
+    "description":"Aspiring Frontend Software Engineer",
+    "image":"profilepic.jpg",
+    "bio":"I am a full-time Software Engineer at HP Inc. and a graduate with a Bachelor of Science in Computer Science from California State University, Sacramento, expected in December 2023. I have a solid foundation in software engineering and am experienced with Java, Python, SQL, and C. My internships at HP Inc., McDonald’s Corporation, and Kaiser Permanente have enhanced my skills in optimizing control circuits, applying machine learning, and contributing to IT projects. I am particularly focused on front-end development and UX/UI design. My expertise in agile methodologies and the software development lifecycle supports my role as a proactive and effective team member.",
+    "contactmessage":"Thank you for reaching out. Please provide your information, and I'll get back to you as soon as possible.",
+    "email": "soreaasmai@gmail.com",
+    "phone": "(916) 934-4301",
+    "github":"https://github.com/sorea-asmai",
+    "project":"https://github.com/sorea-asmai",
+    "address":{
+      "city":"Sacramento,",
+      "state":"California"
+    },
+    "website": "http://www.soreaasmai.com",
+    "resumedownload":"https://tinyurl.com/resume-asmai ",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sorea-asmai/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/sorea-asmai",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical",
+    "education":[
+      {
+        "school":"California State University, Sacramento",
+        "degree":"Bachelors of Science in Computer Science",
+        "graduated":"December 2023",
+        "description":"A solid foundation in computer science and mathematics was developed through coursework in data structures, algorithms, HCI, Java, mobile programming, and software development methodologies, while leadership, project management, and teamwork skills were enhanced through roles in ACM and SWE."
+      }
+    ],
+    "work":[
+      {
+        "company":"HP Inc.",
+        "title":"Writing Systems Engineer",
+        "years":"February 2024 - Present",
+        "description":" "
+      },
+      {
+        "company":"HP Inc.",
+        "title":"Writing Systems Engineer Intern",
+        "years":"May 2023 - August 2023",
+        "description":"Automated TCL scripts to optimize control circuits and enhance efficiency, conducted thermal logging experiments to improve print ink uniformity, and collaborated with engineers to test and enhance industrial press performance."
+      },
+      {
+        "company":"McDonald’s Corporation",
+        "title":"Product Engineer Intern",
+        "years":"June 2022 - August 2022",
+        "description":"Utilized Python, TensorFlow, Keras, and Scikit-learn to detect over 70,000 payment electronic devices across 14,000 locations, extracted data through trained image classification models to identify functional traits, and improved performance and accuracy by deciphering and evaluating existing algorithms with machine learning and statistical modeling techniques."
+      },
+      {
+        "company":"Kaiser Permanente",
+        "title":"Information Technology Intern",
+        "years":"June 2021 - August 2021",
+        "description":"Audited and labeled over 100 wireless PC workstations to facilitate print routing for medical documents, collaborated with the Wireless Infrastructure team to enhance and reformat their website for improved user navigation, and swiftly deployed and configured iPhones for all physicians at Sacramento Kaiser facilities."
+      },
+      {
+        "company":"Square Root Academy",
+        "title":"Intern",
+        "years":"November 2020  - December 2020",
+        "description":"Built Xcode prototypes for front-end applications using Swift (temperature converter, multi-color light display, calculator) with a team of five; improved application quality through code reviews and collaborative testing."
+      },
+      {
+        "company":"CSU Sacramento",
+        "title":"Information Technology & Office Assistant",
+        "years":"January 2021 – December 2023",
+        "description":"Provided step-by-step troubleshooting assistance, including reimaging BIOS, replacing SSDs and HDDs, and repairing equipment for staff and faculty, managed inventory paperwork and processed data in Excel for over 60 Option 4 Kits and 200 eWaste items, and customized visually appealing PowerPoints using Canva while facilitating Zoom Webinar events for audiences of over 100 members."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Bash Script",
+        "level":"85%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"C",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"60%"
+      },
+      {
+        "name":"TCL",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Sierra College Alumni Network",
+        "category":"Redesigned screens in Figma to match the style guide; developed front-end components with React, JavaScript, and SCSS; and collaborated with a team of 7 to create a website with alumni networking, donation portal, verification, and search features to enhance engagement.",
+        "image":"01.jpg",
+        "url":"http://sierrascan.s3-website-us-west-1.amazonaws.com/"
+      },
+      {
+        "title":"Momento",
+        "category":"Dementia & cognitive impairments are often stigmatized, causing individuals to feel ashamed rather than encouraged to monitor and improve their cognition. Our approach offers a supportive and enjoyable way to exercise the mind through gamified musical activities, while also providing resources to help individuals track and manage their cognitive health.",
+        "image":"02.jpg",
+        "url":"https://www.figma.com/proto/dnHU4FU6qHnbMfAjdDwuyk/Momento?type=design&node-id=623-841&t=FMLYMV4L9mTVJH6u-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=623%3A841&show-proto-sidebar=1"
+      },
+      {
+        "title":"Automation Films",
+        "category":"Developed a local website to filter Oscar-nominated and awarded films by categories; prototyped features (breadcrumbs, gallery view, search bar) using HTML and CSS; designed wireframes and high-fidelity mockups; refactored code for better navigation; and led a team of 5 using Agile methodologies to achieve sprint goals, personas, and UML diagrams.",
+        "image":"03.jpg",
+        "url":"https://docs.google.com/presentation/d/1JyhgggXgPoPn3fbNat-6C7V-X31chOpDpzh0GjM08Dk/edit?usp=sharing"
+      },
+      {
+        "title":"HerStart",
+        "category":"Developed a multimedia platform connecting women and gender minorities entering the tech industry; employed JavaScript for a seamless front-end experience and HTML/CSS for styling; and improved user accessibility and usability based on feedback.",
+        "image":"04.jpg",
+        "url":"https://github.com/femc0d3tt3/LovelaceHacksCollabVersion"
+      },
+      {
+        "title":"Univ<Eats",
+        "category":"Developed UI/UX and front-end for a campus mobile ordering app; designed wireframes, high-fidelity mockups, and prototypes in Adobe XD; and applied modern UX/UI concepts to enhance the design process.",
+        "image":"05.jpg",
+        "url":"https://docs.google.com/presentation/d/1LzO4XzvaLpUiTS8OOhfsY66jHA6PwrpP8RGOUZdiejA/edit#slide=id.g7aab8f6d24_0_1293"
+      }
+    ]
+  }
+}
